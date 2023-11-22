@@ -1,0 +1,6 @@
+#include "len_array.h"
+
+len_arr * gen_struct_len_arr(void *arr, int size_arr)
+{
+    
+}
